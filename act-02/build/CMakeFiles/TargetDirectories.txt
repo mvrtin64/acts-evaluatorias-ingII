@@ -1,0 +1,6 @@
+/home/martin/Documents/isft151/tercer_año/ing_soft_II/act-evaluatoria-cmake/act-02/build/CMakeFiles/Hello.dir
+/home/martin/Documents/isft151/tercer_año/ing_soft_II/act-evaluatoria-cmake/act-02/build/CMakeFiles/edit_cache.dir
+/home/martin/Documents/isft151/tercer_año/ing_soft_II/act-evaluatoria-cmake/act-02/build/CMakeFiles/rebuild_cache.dir
+/home/martin/Documents/isft151/tercer_año/ing_soft_II/act-evaluatoria-cmake/act-02/build/my_library/CMakeFiles/my_library.dir
+/home/martin/Documents/isft151/tercer_año/ing_soft_II/act-evaluatoria-cmake/act-02/build/my_library/CMakeFiles/edit_cache.dir
+/home/martin/Documents/isft151/tercer_año/ing_soft_II/act-evaluatoria-cmake/act-02/build/my_library/CMakeFiles/rebuild_cache.dir

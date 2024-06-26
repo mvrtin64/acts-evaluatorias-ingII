@@ -1,0 +1,3 @@
+/home/martin/Documents/isft151/tercer_año/ing_soft_II/act-evaluatoria-cmake/act-03/build/instalacion/bin/Ejecutable
+/home/martin/Documents/isft151/tercer_año/ing_soft_II/act-evaluatoria-cmake/act-03/build/instalacion/bin/config/config.json
+/home/martin/Documents/isft151/tercer_año/ing_soft_II/act-evaluatoria-cmake/act-03/build/instalacion/bin/launcher.sh

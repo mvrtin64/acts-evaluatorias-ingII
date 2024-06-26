@@ -1,0 +1,7 @@
+/home/martin/Documents/isft151/tercer_año/ing_soft_II/act-evaluatoria-cmake/act-03/build/CMakeFiles/Ejecutable.dir
+/home/martin/Documents/isft151/tercer_año/ing_soft_II/act-evaluatoria-cmake/act-03/build/CMakeFiles/edit_cache.dir
+/home/martin/Documents/isft151/tercer_año/ing_soft_II/act-evaluatoria-cmake/act-03/build/CMakeFiles/rebuild_cache.dir
+/home/martin/Documents/isft151/tercer_año/ing_soft_II/act-evaluatoria-cmake/act-03/build/CMakeFiles/list_install_components.dir
+/home/martin/Documents/isft151/tercer_año/ing_soft_II/act-evaluatoria-cmake/act-03/build/CMakeFiles/install.dir
+/home/martin/Documents/isft151/tercer_año/ing_soft_II/act-evaluatoria-cmake/act-03/build/CMakeFiles/install/local.dir
+/home/martin/Documents/isft151/tercer_año/ing_soft_II/act-evaluatoria-cmake/act-03/build/CMakeFiles/install/strip.dir

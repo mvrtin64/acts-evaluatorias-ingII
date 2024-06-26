@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/Hello.dir/main.cpp.o -o Hello  -Wl,-rpath,/home/martin/Documents/isft151/tercer_año/ing_soft_II/act-evaluatoria-cmake/act-02/build/my_library my_library/libmy_library.so
